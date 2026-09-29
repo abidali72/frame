@@ -2,6 +2,8 @@
 
 A high-fidelity, interactive full-screen landing page for the creative agency **Mainframe**, featuring dynamic mouse/touch-scrub video playback, typewriter animation for A.R.I.A (Adaptive Response Interface Agent), and responsive typography.
 
+🌐 **Live Demo:** [https://6abb71244c95cae1aaceda8d--fastidious-kulfi-00a2da.netlify.app/](https://6abb71244c95cae1aaceda8d--fastidious-kulfi-00a2da.netlify.app/)
+
 ---
 
 ## ✨ Features

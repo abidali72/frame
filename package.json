@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "mainframe",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://6abb71244c95cae1aaceda8d--fastidious-kulfi-00a2da.netlify.app/",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
